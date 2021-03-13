@@ -1,0 +1,55 @@
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.Cache
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+C:\Users\jnyh\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.Cache
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+C:\Users\美佳\Desktop\程序设计\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojAssemblyReference.cache
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.cache
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+C:\Users\49289\Desktop\新建文件夹 (4)\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojAssemblyReference.cache
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.cache
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+C:\Users\49289\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojAssemblyReference.cache
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.cache
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+C:\Users\Mier\Desktop\实验\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
